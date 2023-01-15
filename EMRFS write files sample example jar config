@@ -1,4 +1,0 @@
-# EMR create cluster add step (custom JAR ) Jar location: command-runner.jar  Arguments:
-s3-dist-cp --s3Endpoint=s3.amazonaws.com--src=s3://cloudburfi-emr/os_requests/ --
-dest=hdfs///output
-
